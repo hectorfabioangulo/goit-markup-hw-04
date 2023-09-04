@@ -472,7 +472,7 @@ outline: none;
     gap: 70px;
 }
 .address{
-    display: flex;
+    display: inline-flex;
     align-items: baseline;
     gap:70px;
 }
